@@ -35,7 +35,7 @@ An AI-powered analytics platform landing page built with Next.js 15, featuring m
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/SonnyHardy/Statsai.git
 cd statsai
 ```
 
