@@ -2,6 +2,12 @@
 
 An AI-powered analytics platform landing page built with Next.js 15, featuring modern animations and a responsive design.
 
+
+# App Demo
+![App Demo](./public/app-demo/img1.png)
+![App Demo](./public/app-demo/img2.png)
+![App Demo](./public/app-demo/img3.png)
+
 ## Features
 
 - **Animated Hero Section** - GSAP-powered character-by-character headline animation
