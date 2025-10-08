@@ -3,7 +3,8 @@
 An AI-powered analytics platform landing page built with Next.js 15, featuring modern animations and a responsive design.
 
 
-# App Demo
+# App Demo:  [Demo link](https://statsai-ur46.vercel.app)
+
 ![App Demo](./public/app-demo/img1.png)
 ![App Demo](./public/app-demo/img2.png)
 ![App Demo](./public/app-demo/img3.png)
