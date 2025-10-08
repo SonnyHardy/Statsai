@@ -72,7 +72,7 @@ export function TestimonialMarquee() {
             <Card key={index} className="flex-shrink-0 w-[400px] testimonial-card">
               <CardContent className="pt-6">
                 <p className="text-sm text-foreground mb-4 line-clamp-2">
-                  "{testimonial.quote}"
+                  &quot;{testimonial.quote}&quot;
                 </p>
                 <div className="flex items-center gap-3">
                   <Avatar className="size-10">
@@ -98,7 +98,7 @@ export function TestimonialMarquee() {
             <Card key={index} className="flex-shrink-0 w-[400px] testimonial-card">
               <CardContent className="pt-6">
                 <p className="text-sm text-foreground mb-4 line-clamp-2">
-                  "{testimonial.quote}"
+                  &quot;{testimonial.quote}&quot;
                 </p>
                 <div className="flex items-center gap-3">
                   <Avatar className="size-10">

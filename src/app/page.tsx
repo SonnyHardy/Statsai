@@ -128,7 +128,7 @@ export default function Home() {
               <CardHeader>
                 <CardTitle>Predictive Analytics</CardTitle>
                 <CardDescription>
-                  Know what's coming before it happens
+                  Know what&apos;s coming before it happens
                 </CardDescription>
               </CardHeader>
               <CardContent>
